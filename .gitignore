@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules (for both client and server)
+node_modules
+/client/node_modules/
+/server/node_modules/
+
+# Build output (for both client and server)
+dist
+dist-ssr
+*.local
+
+# Environment variables
+/server/.env
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Rough work or temporary markdown files
+.rough.md

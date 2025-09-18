@@ -1,0 +1,9 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400..900&family=Parkinsans:wght@300..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Maven+Pro:wght@400..900&family=Parkinsans:wght@300..800&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
